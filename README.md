@@ -1,2 +1,2 @@
 # ProjetoJava
-Projeto java feito com funções
+Projeto java feito com funções de uma calculadora inteligente
